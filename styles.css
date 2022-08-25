@@ -52,7 +52,6 @@ header h1 {
 }
 
 #palette {
-  height: 50px;
   margin: 25px auto;
   text-align: center;
   width: 80%;
@@ -66,4 +65,10 @@ header h1 {
   margin: 10px;
   height: 50px;
   width: 50px;
+}
+
+.reset {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
 }
